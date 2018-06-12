@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1527945495 source:/home/max/Projects/Crypto/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<limits>
+	<cmath>
+
+1528784295 source:c:\users\ars\desktop\crypto\main.cpp
+	<windows.h>
+	<iostream>
+	<fstream>
+	<cstring>
+	<limits>
+	<cmath>
+
